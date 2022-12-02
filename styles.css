@@ -98,7 +98,6 @@ article p {
 }
 footer{
     display: flex;
-    flex:1;
     justify-content: space-between;
 }
 
