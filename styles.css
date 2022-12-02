@@ -98,8 +98,8 @@ article p {
 }
 footer{
     display: flex;
-    justify-content: space-between;
-    flex-direction: row-reverse;
+    justify-content: space-evenly;
+ 
 }
 
 
