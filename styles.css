@@ -100,12 +100,8 @@ footer{
     display: flex;
     justify-content: space-between;
     flex-direction: row-reverse;
-
 }
 
-div {
-    flex:1;
-}
 
 
 div>img {
