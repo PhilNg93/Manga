@@ -93,7 +93,7 @@ article>img:hover {
 
 }
 article p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
 }
 footer{
@@ -106,6 +106,7 @@ footer{
 
 div>img {
     max-width: 30%;
-    height: auto;
+    height: 30%;
+    object-fit: cover;
 }
 
