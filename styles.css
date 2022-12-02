@@ -2,7 +2,7 @@ body {
     background-image: linear-gradient(90deg, #f2f2f2, #f2e6ff);
     font-family: "Quicksand", serif;
     margin-top: 2rem;
-    margin-bottom: 0rem;
+    margin-bottom: 1rem;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -81,6 +81,7 @@ h2 {
     font-size: 1.5 rem;
 }
 
+
 article>img{
     max-width: 100%;
     height: 50%;
@@ -97,13 +98,17 @@ article p {
 }
 footer{
     display: flex;
-    justify-content: space-between;
 }
 div {
     flex: 1;
 }
 div>img {
+    margin-top: 1rem;
     max-width: 30%;
-    height: 30%;
-    object-fit: cover;
+    height: auto;
+}
+
+div > p{
+    margin-top: 1rem;
+    float:right;
 }
