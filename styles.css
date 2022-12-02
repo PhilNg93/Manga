@@ -98,12 +98,10 @@ article p {
 }
 footer{
     display: flex;
+    flex: 1;
     justify-content: space-between;
 }
-#copyright p {
-    width: 100%;
-    height: auto;
-}
+
 div>img {
     max-width: 30%;
     height: 30%;
