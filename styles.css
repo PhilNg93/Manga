@@ -99,10 +99,11 @@ article p {
 footer{
     display: flex;
     justify-content: space-between;
+    flex-direction: row-reverse;
+
 }
 
 div {
-    flex-direction: row-reverse;
     flex:1;
 }
 
