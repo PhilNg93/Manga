@@ -100,7 +100,7 @@ footer{
     display: flex;
     justify-content: space-between;
 }
-#copyright>p {
+#copyright p {
     flex-wrap: nowrap;
 }
 div>img {
@@ -108,4 +108,3 @@ div>img {
     height: 30%;
     object-fit: cover;
 }
-
