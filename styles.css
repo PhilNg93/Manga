@@ -99,9 +99,10 @@ article p {
 footer{
     display: flex;
     justify-content: space-between;
- 
 }
-
+div>p {
+    flex-wrap: nowrap;
+}
 div>img {
     max-width: 30%;
     height: 30%;
