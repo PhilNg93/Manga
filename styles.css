@@ -102,8 +102,7 @@ footer{
 
 div {
     flex: 1;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
 }
 
 div>img {
