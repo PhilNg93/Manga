@@ -100,7 +100,7 @@ footer{
     display: flex;
     justify-content: space-between;
 }
-div>p {
+div p {
     flex-wrap: nowrap;
 }
 div>img {
