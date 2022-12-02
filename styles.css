@@ -98,11 +98,9 @@ article p {
 }
 footer{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
  
 }
-
-
 
 div>img {
     max-width: 30%;
