@@ -102,6 +102,7 @@ footer{
 }
 
 div {
+    flex-direction: row-reverse;
     flex:1;
 }
 
