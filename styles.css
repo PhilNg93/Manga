@@ -101,7 +101,7 @@ footer{
     justify-content: space-between;
 }
 #copyright p {
-    text-decoration: overline;
+    display: inline-block;
 }
 div>img {
     max-width: 30%;
