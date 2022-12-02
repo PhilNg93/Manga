@@ -101,6 +101,9 @@ footer{
     justify-content: space-between;
 }
 
+div {
+    flex:1;
+}
 
 
 div>img {
