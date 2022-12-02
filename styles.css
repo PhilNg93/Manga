@@ -101,6 +101,7 @@ footer{
     justify-content: space-between;
 }
 #copyright p {
+    text-decoration: overline;
     flex-wrap: nowrap;
 }
 div>img {
