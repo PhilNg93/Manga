@@ -53,20 +53,20 @@ section {
     text-align: center;
     background-color: #a2d1d1;
     padding: 2rem 0;
-    animation: 3s infinite alternate bgChange;
+    animation: 2s infinite linear bgChange;
 }
 @keyframes bgChange {
    0% {
-    background: #ffffff;
+    background: #b3ffff;
    }
    25% {
-    background: #99ffff;
+    background: greenyellow;
    }
    50% {
     background: #33ffff;
    }
    100% {
-    background: #008080;
+    background: palegoldenrod;
    }
 }
 .btn {
