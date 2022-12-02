@@ -76,9 +76,6 @@ article {
     flex: 1;
     text-align: center;
 }
-article:hover {
-    
-}
 
 h2 {
     font-size: 1.5 rem;
@@ -95,7 +92,10 @@ article>img:hover {
     transform: scale(1.5);
 
 }
-
+article p {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
 footer{
     display: flex;
 }
